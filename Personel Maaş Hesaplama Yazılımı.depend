@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545060116 source:c:\users\aliyi\desktop\personel maaþ hesaplama yazýlýmý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
